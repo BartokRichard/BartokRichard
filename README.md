@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=BartokRichard&color=brightgreen&label=Profile+views)
 
-## 💻 About me ♠️ ⚽ 🎮 💻
+## 💻 About me 💻 ♠️ 🎮 
 
 👋 Hello there! My name is Bartok Richárd-Tibor, and I'm a Full Stack/Software Developer based in Miercurea-Ciuc, Harghita, Romania.
 
