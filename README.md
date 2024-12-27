@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**BartokRichard/BartokRichard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi there 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=BartokRichard&color=brightgreen&label=Profile+views)
