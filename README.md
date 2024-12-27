@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=BartokRichard&color=brightgreen&label=Profile+views)
