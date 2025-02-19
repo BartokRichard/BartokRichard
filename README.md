@@ -11,7 +11,7 @@
 ### WordPress Developer @ CamelCoding (June 2023 - August 2023)
 Development and maintenance of WordPress WooCommerce E-commerce platforms.
 
-### System Administrator @ Harghita County Council (September 2024 - Present)
+### System Administrator-Intern @ Harghita County Council (September 2024 - January 2025)
 Process automation with Python, Linux system administration, and ZeroTrust Cyber Security system management.
 
 ### Personal Trainer @ Logiscool România (October 2024 - Present)
